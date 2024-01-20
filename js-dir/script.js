@@ -26,6 +26,8 @@ function getDiffAndDisplay() {
 
 
   }
+
+//TODO lookup window.open() on youtube
     
   
 btn1.addEventListener('click', getDiffAndDisplay);
