@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+.text-form {
+    display: flex;
+    flex-direction: row;
+}
+
+.first-block,
+.second-block {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+}
+
+.inp-button {
+    flex-basis: 50px;
+    justify-content: flex-end;
+}
