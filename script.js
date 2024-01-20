@@ -15,7 +15,7 @@ function getDiffAndDisplay() {
   
     txtout1.innerText = "First block: " + txt1.value;
     txtout2.innerText = "Second block: " + txt2.value;
-    out1.innerHTML = diff2;
+    out1.innerHTML = "Diff-match: " + diff2;
   }
     
   
